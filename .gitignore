@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ignore all checkpoint folders and files
+checkpoints*/
+lenses/
+dataset/
+__MACOSX/
+
 # C extensions
 *.so
 
